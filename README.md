@@ -1,0 +1,1 @@
+# nest_firebase_docker_mongo_boilerplate
