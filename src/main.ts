@@ -1,6 +1,6 @@
 import { NestFactory } from '@nestjs/core';
 import { AppModule } from './app.module';
-import * as firebaseConfig from '../config/firebase.json';
+import * as firebaseConfig from '../firebase.json';
 
 import * as admin from 'firebase-admin'
 
